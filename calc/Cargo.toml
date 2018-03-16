@@ -1,0 +1,7 @@
+[package]
+name = "calc"
+version = "0.0.1"
+authors = ["mawewwa"]
+
+[dependencies]
+colored = "1.6"
